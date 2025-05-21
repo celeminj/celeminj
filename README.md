@@ -113,7 +113,3 @@
 </p>
 
 ---
-
-### 🧠 ¿Quieres hacer uno como este?
-Generado con ❤️ gracias a [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-
