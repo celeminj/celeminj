@@ -8,12 +8,11 @@
 
 ---
 
-- 🔭 Actualmente estoy trabajando en **[Proyecto 1](https://tu-proyecto.com)**  
+- 🔭 Actualmente estoy trabajando en **[Proyecto 1](celemin.me)**  
 - 🌱 Estoy aprendiendo **GSAP, Three.js y otras tecnologías visuales**  
-- 👯 Me gustaría colaborar en **proyectos creativos frontend**  
-- 🤝 Busco ayuda con **optimizaciones de rendimiento web**  
+- 👯 Me gustaría colaborar en **proyectos de frontend como de backend**  
 - 👨‍💻 Todos mis proyectos están disponibles en: [portafolio.celemin.me](http://portafolio.celemin.me)  
-- 💬 Pregúntame sobre **React, GSAP o Vue**  
+- 💬 Pregúntame sobre **Vue, GSAP, 3D, PHP, SQL, Android**  
 - 📫 Puedes contactarme en **jordi.celemin@gmail.com**  
 - 📄 CV y experiencia: [Ver CV](https://tucv-link.com)
 
