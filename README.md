@@ -1,6 +1,6 @@
 <!-- Encabezado animado -->
 <h1 align="center">Hi 👋, I'm Jordi Celemin Gonzalez</h1>
-<h3 align="center">🎨 A passionate frontend developer from Spain</h3>
+<h3 align="center">A passionate frontend/backend developer from Spain</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%92%BB;Apasionado+por+React+y+GSAP;Amante+de+la+animaci%C3%B3n+web+interactiva" alt="Typing SVG" />
