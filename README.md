@@ -2,6 +2,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=F7931E&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Jordi+Celemin+Gonzalez;Full+Stack+Developer+from+Barcelona;Apasionado+por+crear+webs+y+apks+interactivas" alt="Typing SVG" />
 </h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFEA&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Jordi+Celemin+Gonzalez;Full+Stack+Developer+from+Barcelona;Apasionado+por+crear+webs+y+apks+interactivas" alt="Typing SVG" />
+</h1>
 
 <h3 align="center">A passionate frontend/backend developer from Spain</h3>
 
