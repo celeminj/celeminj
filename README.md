@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 Actualmente estoy trabajando en **[Proyecto 1](celemin.me)**  
+- 🔭 Actualmente estoy trabajando en **[Proyecto3D](celemin.me)**  
 - 🌱 Estoy aprendiendo **GSAP, Three.js y otras tecnologías visuales**  
 - 👯 Me gustaría colaborar en **proyectos de frontend como de backend**  
 - 👨‍💻 Todos mis proyectos están disponibles en: [portafolio.celemin.me](http://portafolio.celemin.me)  
