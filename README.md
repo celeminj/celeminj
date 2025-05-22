@@ -110,16 +110,14 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jordicelemin&theme=radical" alt="streak stats"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jordicelemin&theme=radical" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=celeminj&show_icons=true&theme=radical" alt="celeminj stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordicelemin&layout=compact&theme=radical" alt="top langs"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=celeminj&theme=radical" alt="celeminj streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celeminj&layout=compact&theme=radical" alt="celeminj top langs"/>
 </p>
 
