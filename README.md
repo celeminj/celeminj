@@ -13,7 +13,7 @@
 - 🌱 Estoy aprendiendo **GSAP, Three.js y otras tecnologías visuales**  
 - 👯 Me gustaría colaborar en **proyectos de frontend como de backend**  
 - 👨‍💻 Todos mis proyectos están disponibles en: [portafolio.celemin.me](http://portafolio.celemin.me)  
-- 💬 Pregúntame sobre **Vue, GSAP, 3D, PHP, SQL, Android**  
+- 💬 Pregúntame sobre **Vue, GSAP, PHP, SQL, Android,3D**  
 - 📫 Puedes contactarme en **jordi.celemin@gmail.com**  
 - 📄 CV y experiencia: [Ver CV](https://tucv-link.com)
 
