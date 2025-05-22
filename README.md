@@ -41,7 +41,7 @@
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a>
   <a href="https://www.autodesk.com/es/products/maya/overview" target="_blank" rel="noreferrer">
-    <img src="https://images.seeklogo.com/logo-png/30/1/autodesk-maya-logo-png_seeklogo-308077.png" alt="Maya" width="40" height="40"/>
+    <img src="https://www.pngitem.com/pimgs/m/196-1966079_transparent-maya-logo-png-autodesk-maya-logo-png.png" alt="Maya" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://camo.githubusercontent.com/ecd695fb1ffadab6633f9fcdffaeebc58f3cca722260f0dec7dc607bd9d0e740/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="bootstrap" width="40" height="40"/>
